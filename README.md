@@ -56,7 +56,7 @@
   -  Iterative benchmarking/profiling of on-device performance
   -  Model compression: training compact models from larger models
  
-  ![Affectiva's Metrics]
+  ![Affectiva's Metrics]https://github.com/kalAnglin/ai-case-study/blob/main/images_folder/DeepLearningSpeedVsAccuracy.png
 
 * 
 ## Recommendations
