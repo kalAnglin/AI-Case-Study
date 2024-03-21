@@ -16,6 +16,8 @@
 
 * The benefits of imbuing AI with emotional intelligence are applicable in many different fields; however Affectiva's targeted base is consumers in the automotive saftery, advertising, entertainment and participants in quality research in person and online. Affectiva reports utilizing a global dataset of over 14 million videos collected from 90 countries. Their Media Analytics solutions are used by 90 percent of the world's largest advertisers, and 26 percent of Fortune Global 500 companies.
 
+![Affectiva's dataset](
+
 * A key component that makes Affectiva's approach to Emotion AI unique stems from the cofounder Rana el Kaliouby's desire to utilize "Affective Computing" to help individuals with autism improve communication by providing tools to assist with understanding our sensory world prior to the inception of the company.[^3] Similar to Affectiva, many other Emotion AI companies implement complex multi-modal deep learing and generative systems to capture emotion through a variety of methods including facial expressions, tone of voice, environmental factors, social setting, and cultural context. However, in reference to the Kaliouby's initial interest in the autistic community. Affectiva differs by placing the desire to improve communication at the center their Emotion AI systems approach.[^4] [^5]
 
 * Machine Learning Models based on Deep Learning are the primary technological approaches Affectiva uses to capture human emotion through artificial intelligence. Some primary ways human emotion and cognitive states are expressed are through facial expressions and vocal tonality. There is a large variety human expreession and tones of voice. In addition, these expressions or tones are constantly changing or adapting to new stimuli. This creates a complex problem that require a less straightfoward algorithm that uses deep neural networks to analye this evolvoing data and solve the problem of classifying, segmenting, modeling by automatically extracting features of the data to guide the learning process. Affectiva uses the following two deep learning architectures to accomplish this task:
@@ -46,10 +48,10 @@
 
 * Below is an example of OpenAI's Whisper, an open-source automatice speech recognition model that shows how large and diverse datasets containing multiple languages and tasks are transcribed into text by an end-to-end approach using an encoder-decoder transformer:
  
-  ![OpenAI Speech Processing]( ^9]
+  ![OpenAI Speech Processing](images_folder/asr-summary-of-model-architecture-desktop.svg) [^9]
 
       
- * Common trends in the field of Emotion AI have been utilizing this sensory data to better understand and predict human behaviors. These types of analytics are in high demand for advertising/retail, entertainment content, automotive safety, and behavioral research for humans and animals. Two other major companies in this field include Realeyes, Noldus, and Cognovi Labs.[^10]
+* Common trends in the field of Emotion AI have been utilizing this sensory data to better understand and predict human behaviors. These types of analytics are in high demand for advertising/retail, entertainment content, automotive safety, and behavioral research for humans and animals. Two other major companies in this field include Realeyes, Noldus, and Cognovi Labs.[^10]
 
 ## Results
 
@@ -67,7 +69,8 @@
 ## Recommendations
 
 * As a consultant or advisor it is always a challenge to determine how well a software integrates with another application, and given the complexity of the Affectiva's multi-modal emotion perception system, I would love to see more information on the company's API metrics. Along with this information, offering additional products or services to assist integration would make this services by feasible for organizations the lack a robust technology department. Affectiva has already rolled out a Software Development Kit (SDK) which provides the technology needed to assist developers with integrating technology onto apps and browsers.[^12] Increasing the accessibility of SDKs would further the exploration of how emotion analytics can help facilitate humanity's desire to create meaningful social interactions and connections in this new digital frontier.
-___
+
+
 [^1]: https://www.businesswire.com/news/home/20210525005790/en/Smart-Eye-Acquires-Affectiva-to-Solidify-Stronghold-on-Interior-Sensing-Market 
 [^2]: https://www.affectiva.com/about-affectiva/
 [^3]: https://www.media.mit.edu/groups/affective-computing/overview/
