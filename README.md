@@ -16,7 +16,7 @@
 
 * The benefits of imbuing AI with emotional intelligence and beneficial in many different fields; however Affectiva's targeted base is consumers in the advertising, entertainment and participants in quality research in person and online. Affectiva reports utilizing a global dataset of over 14 million videos collected from 90 countries. Their Media Analytics solutions are used by 90 percent of the world's largest advertisers, and 26 percent of Fortune Global 500 companies.
 
-* A key component that makes Affectiva's approach to Emotion AI unique stems from the cofounder Rana el Kaliouby's desire to initially utilize "Affective Computing" to help individuals with autism improve communication by providing tools to assist with understanding our sensory world. Similar to Affectiva, many other Emotion AI companies implement complex multi-modal deep learing and generative systems to capture emotion through a variety of methods including facial expressions, tone of voice, environmental factors, social setting, and cultural context. In reference to the Kaliouby's interest in the autistic community, Affectiva differs by making placing the desire to improve communication at the center their Emotion AI systems. [^1] [^2]
+* A key component that makes Affectiva's approach to Emotion AI unique stems from the cofounder Rana el Kaliouby's desire to utilize "Affective Computing" to help individuals with autism improve communication by providing tools to assist with understanding our sensory world prior to the inception of the company. Similar to Affectiva, many other Emotion AI companies implement complex multi-modal deep learing and generative systems to capture emotion through a variety of methods including facial expressions, tone of voice, environmental factors, social setting, and cultural context. However, in reference to the Kaliouby's initial interest in the autistic community, Affectiva differs by placing the desire to improve communication at the center their Emotion AI systems approach. [^1] [^2]
 
 * Machine Learning Models based on Deep Learning are the primary technological approaches Affectiva uses to capture human emotion through artificial intelligence. Some primary ways human emotion and cognitive states are expressed are through facial expressions and vocal tonality. There is a large variety human expreession and tones of voice. In addition, these expressions or tones are constantly changing or adapting to new stimuli. This creates a complex problem that require a less straightfoward algorithm that uses deep neural networks to analye this evolvoing data and solve the problem of classifying, segmenting, modeling by automatically extracting features of the data to guide the learning process. Affectiva uses the following two deep learning architectures to accomplish this task:
   
@@ -30,7 +30,13 @@
 
 ### Landscape
 
-* The field of Emotion AI is related to the field of Facial Recognition.
+* The field of Emotion AI is byproduct of Facial Recognition Technology familiar to most through science fiction movies but more notably through the advent of smart phones. All facial recognition systems a based on proprietary algorithms that perform three basic funtions:
+    1. Detection - process of finding a face, not necessarily an identity.
+    2. Analysis - maps the face by measuring eyes, shape of chin, distance between nose and mouth, and then converts that into a string of numbers or     
+       points to create a "faceprint".
+    3. Recognition - the attempt to verify a person's identity for security purposes.
+
+ * The latest trends in the field of Facial Recognition is to include in emotion as a part of the AI data capture provide analytics to advertising, entertainment content, automotive safety, and behavioral research for humans and animals.
 
 ___
 [^1]: https://www.media.mit.edu/groups/affective-computing/overview/
