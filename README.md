@@ -44,7 +44,7 @@
   4.  Neural Networks - mimics the interconnectivity of the human brain through layers of nodes. Each node is         made up of inputs, weights, a bias, and an output. If output exceeds a given threshold, it "fires" or           activates the node, passing data to next layer in the network.
   5.  Speaker Diarization - an algorithm identifies and segments speech by speaker identity.[^8]
 
-  * Below is an example of OpenAI's Whisper, an open-source automatice speech recognition model that shows how large and diverse datasets containing multiple languages and tasks are transcribed into text by an end-to-end approach using an encoder-decoder transformer:
+* Below is an example of OpenAI's Whisper, an open-source automatice speech recognition model that shows how large and diverse datasets containing multiple languages and tasks are transcribed into text by an end-to-end approach using an encoder-decoder transformer:
  
   ![OpenAI Speech Processing]( ^9]
 
