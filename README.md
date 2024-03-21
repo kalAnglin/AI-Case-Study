@@ -16,7 +16,7 @@
 
 * The benefits of imbuing AI with emotional intelligence are applicable in many different fields; however Affectiva's targeted base is consumers in the automotive saftery, advertising, entertainment and participants in quality research in person and online. Affectiva reports utilizing a global dataset of over 14 million videos collected from 90 countries. Their Media Analytics solutions are used by 90 percent of the world's largest advertisers, and 26 percent of Fortune Global 500 companies.
 
-![Affectiva's dataset](
+![Affectiva's dataset](images_folder/data-from-90-countries-min.png)
 
 * A key component that makes Affectiva's approach to Emotion AI unique stems from the cofounder Rana el Kaliouby's desire to utilize "Affective Computing" to help individuals with autism improve communication by providing tools to assist with understanding our sensory world prior to the inception of the company.[^3] Similar to Affectiva, many other Emotion AI companies implement complex multi-modal deep learing and generative systems to capture emotion through a variety of methods including facial expressions, tone of voice, environmental factors, social setting, and cultural context. However, in reference to the Kaliouby's initial interest in the autistic community. Affectiva differs by placing the desire to improve communication at the center their Emotion AI systems approach.[^4] [^5]
 
