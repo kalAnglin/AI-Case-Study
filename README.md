@@ -34,20 +34,22 @@
 
 * Facial Recognition Systems a based on proprietary algorithms that perform three basic funtions:
   1. Detection - process of finding a face, not necessarily an identity.
-  2. Analysis - maps the face by measuring eyes, shape of chin, distance between nose and mouth, and then         converts that into a string of numbers or points to create a "faceprint".
+  2. Analysis - maps the face by measuring eyes, shape of chin, distance between nose and mouth, and then            converts that into a string of numbers or points to create a "faceprint".
   3. Recognition - the attempt to verify a person's identity for security purposes.[^7]
  
 * Speech Recognition Systems are also based on various algorithms and computation techniques to recognize speech and turn it into an accurate text transcript. Here are a list of the some of the methods used:
-  1.  Naturaly Language Processing (NLP) - 
-  2.  Hidden Markov Models -
-  3.  N-grams -
-  4.  Neural Networks - 
-  5.  Speaker Diarization - [^8]
-    
+  1.  Natural Language Processing (NLP) - interaction between humans and machines through speech and text.
+  2.  Hidden Markov Models - allows coders to incorporate part-of-speech tags into a probabilistic model. Each        sequenced model within speech recognition is assigned a label for further mapping and the determination         of the appropriate label sequence.
+  3.  N-grams - assigns probability to sentences or phrases.
+  4.  Neural Networks - mimics the interconnectivity of the human brain through layers of nodes. Each node is         made up of inputs, weights, a bias, and an output. If output exceeds a given threshold, it "fires" or           activates the node, passing data to next layer in the network.
+  5.  Speaker Diarization - an algorithm identifies and segments speech by speaker identity.[^8]
+
+  * Below is an example of OpenAI's Whisper, an open-source automatice speech recognition model that shows how large and diverse datasets containing multiple languages and tasks are transcribed into text by an end-to-end approach using an encoder-decoder transformer:
+ 
   ![OpenAI Speech Processing]( ^9]
 
       
- * Common trends in the field of Emotion AI have been utilizing this sensory data to better understand and predict human behaviors. These types of analytics are in high demand for advertising/retail, entertainment content, automotive safety, and behavioral research for humans and animals. Two other major companies in this field include Realeyes NOldus, and Cognovi Labs.[^10]
+ * Common trends in the field of Emotion AI have been utilizing this sensory data to better understand and predict human behaviors. These types of analytics are in high demand for advertising/retail, entertainment content, automotive safety, and behavioral research for humans and animals. Two other major companies in this field include Realeyes, Noldus, and Cognovi Labs.[^10]
 
 ## Results
 
@@ -64,7 +66,7 @@
 
 ## Recommendations
 
-* As a consultant or advisor it is always a challenge to determine how well softwares integrate with other applications, and given the complexity of the Affectiva's multi-modal emotion perception system, I would love to see more information on the company's API metrics. Along with this information, offering additional products or services to assist integration would make this services by feasible for organizations the lack a robust technology department. Affectiva has already rolled out a Software Development Kit (SDK) which provides the technology needed to assist developers with integrating technology onto apps and browsers.[^12] Increasing the accessibility of SDKs would further the exploration of how emotion analytics can help facilitate humanity's desire to create meaningful social interactions and connections in this new digital frontier.
+* As a consultant or advisor it is always a challenge to determine how well a software integrates with another application, and given the complexity of the Affectiva's multi-modal emotion perception system, I would love to see more information on the company's API metrics. Along with this information, offering additional products or services to assist integration would make this services by feasible for organizations the lack a robust technology department. Affectiva has already rolled out a Software Development Kit (SDK) which provides the technology needed to assist developers with integrating technology onto apps and browsers.[^12] Increasing the accessibility of SDKs would further the exploration of how emotion analytics can help facilitate humanity's desire to create meaningful social interactions and connections in this new digital frontier.
 ___
 [^1]: https://www.businesswire.com/news/home/20210525005790/en/Smart-Eye-Acquires-Affectiva-to-Solidify-Stronghold-on-Interior-Sensing-Market 
 [^2]: https://www.affectiva.com/about-affectiva/
